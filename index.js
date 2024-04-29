@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["A Simple Discord Bot","hehe"];
+const statusMessages = ["Playing vr","Playing VR"];
 
 
 let currentIndex = 0;
